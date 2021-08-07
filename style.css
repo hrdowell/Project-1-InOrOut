@@ -1,0 +1,27 @@
+*{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.recipePhoto {
+    height: 80px;
+}
+.recipeInfo {
+    display: flex;
+}
+.recipeInfo p {
+    margin: 0 1em;
+}
+.recipeNameAndButton {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1em;
+}
+
+.brand-logo {
+    margin-left: 1em;
+}
+
+.nav-text {
+    margin-left: 4em;
+}
